@@ -1,0 +1,8 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+python-dotenv
+flask-sqlalchemy
+psycopg2-binary
+pydantic
+jwt
+flask-jwt-extended
